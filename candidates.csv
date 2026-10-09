@@ -1,0 +1,61 @@
+candidate_id,role_type,source,furthest_stage,days_in_process
+C-001,Sales,Referral,Screened,39
+C-002,Sales,Inbound application,Interviewed,9
+C-003,Technical,Inbound application,Screened,7
+C-004,Sales,Referral,Shortlisted,16
+C-005,Sales,Referral,Screened,33
+C-006,Technical,Inbound application,Shortlisted,29
+C-007,Sales,Job board,Shortlisted,20
+C-008,Technical,Referral,Shortlisted,22
+C-009,Technical,Referral,Interviewed,29
+C-010,Sales,Job board,Shortlisted,18
+C-011,Sales,Referral,Screened,6
+C-012,Technical,Inbound application,Screened,14
+C-013,Sales,Inbound application,Shortlisted,35
+C-014,Sales,Job board,Screened,29
+C-015,Technical,Referral,Interviewed,28
+C-016,Technical,Job board,Screened,3
+C-017,Technical,Direct outreach,Shortlisted,4
+C-018,Sales,Job board,Interviewed,28
+C-019,Sales,Referral,Screened,12
+C-020,Sales,Inbound application,Offered,19
+C-021,Sales,Direct outreach,Screened,21
+C-022,Technical,Referral,Screened,7
+C-023,Sales,Job board,Interviewed,40
+C-024,Sales,Referral,Screened,41
+C-025,Technical,Direct outreach,Interviewed,42
+C-026,Technical,Job board,Interviewed,40
+C-027,Technical,Job board,Interviewed,27
+C-028,Sales,Job board,Sourced,22
+C-029,Sales,Job board,Joined,15
+C-030,Sales,Job board,Shortlisted,27
+C-031,Technical,Referral,Sourced,29
+C-032,Sales,Referral,Sourced,9
+C-033,Sales,Direct outreach,Sourced,18
+C-034,Technical,Direct outreach,Sourced,29
+C-035,Technical,Direct outreach,Screened,36
+C-036,Sales,Referral,Shortlisted,11
+C-037,Sales,Inbound application,Interviewed,38
+C-038,Sales,Direct outreach,Sourced,16
+C-039,Sales,Referral,Interviewed,7
+C-040,Technical,Inbound application,Sourced,31
+C-041,Sales,Referral,Screened,5
+C-042,Sales,Direct outreach,Screened,26
+C-043,Sales,Referral,Offered,26
+C-044,Sales,Inbound application,Sourced,24
+C-045,Sales,Referral,Joined,4
+C-046,Technical,Direct outreach,Interviewed,22
+C-047,Sales,Referral,Interviewed,41
+C-048,Sales,Inbound application,Interviewed,7
+C-049,Technical,Direct outreach,Offered,11
+C-050,Sales,Referral,Screened,31
+C-051,Technical,Referral,Screened,11
+C-052,Technical,Direct outreach,Interviewed,8
+C-053,Technical,Referral,Interviewed,29
+C-054,Sales,Inbound application,Joined,39
+C-055,Sales,Inbound application,Interviewed,27
+C-056,Sales,Referral,Shortlisted,8
+C-057,Sales,Referral,Offered,19
+C-058,Technical,Direct outreach,Interviewed,27
+C-059,Technical,Inbound application,Offered,32
+C-060,Sales,Referral,Interviewed,22
